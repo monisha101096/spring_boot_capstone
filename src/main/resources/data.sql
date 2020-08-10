@@ -1,0 +1,2 @@
+INSERT INTO accounts (id, name, account, type, balance) VALUES (5, 'John Smith', 10004, 'savings', 100.0);
+INSERT INTO accounts (id, name, account, type, balance) VALUES (6, 'Tony Stark', 10006, 'joint', 100.0);
